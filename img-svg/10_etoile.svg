@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="300px" height="400px" xml:lang="fr"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>etoile</title>
+ <polygon points="190.190, 110.110, 130.130, 310.880, 290.180, 180.680, 100, 180.680, 260.150, 310.880"  stroke-width="5" fill="yellow"/>" />
+</svg>

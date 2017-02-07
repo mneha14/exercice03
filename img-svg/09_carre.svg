@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="200px" height="200px" xml:lang="fr"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>rectangle</title>
+  <rect x="20" y="0" width="50" height="50" stroke-width="0" fill="white"/>
+  <rect x="20" y="50" width="50" height="50" stroke-width="0" fill="black"/>
+  <rect x="20" y="100" width="50" height="50" stroke-width="0" fill="white"/>
+  <rect x="70" y="100" width="50" height="50" stroke-width="0" fill="black"/>
+  <rect x="70" y="50" width="50" height="50" stroke-width="0" fill="white"/>
+   <rect x="70" y="0" width="50" height="50" stroke-width="0" fill="black"/>
+   <rect x="120" y="100" width="50" height="50" stroke-width="0" fill="white"/>
+  <rect x="120" y="50" width="50" height="50" stroke-width="0" fill="black"/>
+   <rect x="120" y="0" width="50" height="50" stroke-width="0" fill="white"/>
+  
+</svg>
